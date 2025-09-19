@@ -1,3 +1,4 @@
+//code taken from gemini ai and modified by me 
 document.addEventListener('DOMContentLoaded', () => {
     const contactForm = document.getElementById('add-contact-form');
     const contactList = document.getElementById('contact-list');
